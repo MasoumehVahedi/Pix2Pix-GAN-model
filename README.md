@@ -18,4 +18,6 @@ Remote sensing satellites collect data with different spatial and spectral chara
 Download pix2pix datasets from: https://www.kaggle.com/vikramtiwari/pix2pix-dataset
 
 ## Reference
+https://arxiv.org/abs/1611.07004
+https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix?utm_source=catalyzex.com
 https://machinelearningmastery.com/how-to-develop-a-pix2pix-gan-for-image-to-image-translation/
