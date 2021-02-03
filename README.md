@@ -1,4 +1,4 @@
-# GAN-model
+# Pix2Pix GAN model
 image-to-image-translation
 
 In this project, Pix2Pix GAN model was utilized for image-to-image translation of SAR because Pix2pix achieves the desired results for many image-to-image translation tasks. for implementation of pix2pix model, TensorFlow and Keras deep learning framework were used. 
